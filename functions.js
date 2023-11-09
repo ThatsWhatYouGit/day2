@@ -7,3 +7,8 @@ function devision(n1,n2){
     let div=n1/n2;
     return div;
 }
+
+function add(n1,n2){
+    let sum=n1+n2;
+    return add;
+}
